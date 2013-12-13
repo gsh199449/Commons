@@ -2,5 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/required/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/required/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="lib/required/activation.jar"/>
+	<classpathentry kind="lib" path="lib/required/mail.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
